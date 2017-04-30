@@ -1,0 +1,32 @@
+* {
+	margin: 0px;
+	padding: 0px;
+
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+button, img {
+	margin: 50px;
+	padding: 10px;
+}
+
+.pop-up {
+	position: absolute;
+	background-color: lightgreen;
+	width: 75%;
+	padding: 50px;
+	top: 200px;
+	left: 200px;
+	border: 1px solid black;
+	z-index: 100;
+}
+
+.time-counter {
+	margin: 20px 0;
+	font-size: 60px;
+}
+
+.hidden {
+	display: none;
+}

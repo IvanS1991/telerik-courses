@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="./style.css">
+
+	</head>
+
+	<body>
+		
+		<!-- CONTROLS -->
+		<button id="geolocation">Task 1 - Geolocation</button>
+		<button id="redirect">Task 2 - Popup then load</button>
+
+		<!-- CONTAINER -->
+		<div id="container"></div>
+
+
+		<!-- SCRIPTS -->
+		<script src="./main.js"></script>
+		<script>
+			document.getElementById('geolocation')
+					.addEventListener('click', function() {
+						getLocation('#container');
+					});
+
+			document.getElementById('redirect')
+					.addEventListener('click', function() {
+						popupRedirect("https://github.com/TelerikAcademy/JavaScript-Applications/tree/master/Topics/01.%20Promises%20and%20asynchronous%20programming/homework");
+					});
+		</script>
+
+	</body>
+
+</html>
