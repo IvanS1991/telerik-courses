@@ -1,0 +1,6 @@
+{{#if LOGIN_AUTHKEY}}
+  <p>Logged in as {{LOGIN_USERNAME}}</p>
+  <button id="btn-logout">Logout</button>
+{{else}}
+  <a href="#/user/login">Login</a> or <a href="#/user/register">Register</a>
+{{/if}}

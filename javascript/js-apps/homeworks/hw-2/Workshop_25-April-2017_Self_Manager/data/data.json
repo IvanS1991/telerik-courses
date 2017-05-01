@@ -1,0 +1,167 @@
+{
+  "users": [
+    {
+      "username": "Doncho",
+      "passHash": "4cb5ba2355368d4dfd14c9eee9a134791f7001cb",
+      "usernameLower": "doncho",
+      "authKey": "undefined+tusvd@Kh_@ixbA*Q$fvLmq(CJJmu*DN%E^i@OUr&eoAJn!*uak",
+      "id": "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+      "events": [
+        {
+          "id": 449037,
+          "title": "Test",
+          "category": "Work",
+          "description": "",
+          "date": "2015-09-08T23:00:00.000Z",
+          "creatorId": "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+          "users": [
+            "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+            "d69707b4-d06d-42ac-bc10-1dde5aaafcf7"
+          ]
+        },
+        {
+          "id": 449037,
+          "title": "Test",
+          "category": "Work",
+          "description": "",
+          "date": "2015-09-08T23:00:00.000Z",
+          "creatorId": "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+          "users": [
+            "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+            "d69707b4-d06d-42ac-bc10-1dde5aaafcf7"
+          ]
+        },
+        {
+          "id": 792579,
+          "title": "Test",
+          "category": "Free time",
+          "description": "",
+          "date": "2015-09-17T23:00:00.000Z",
+          "creatorId": "d69707b4-d06d-42ac-bc10-1dde5aaafcf7",
+          "users": [
+            "d69707b4-d06d-42ac-bc10-1dde5aaafcf7"
+          ]
+        }
+      ],
+      "todos": [
+        {
+          "id": 27882,
+          "text": "qwe",
+          "state": true,
+          "category": "Home"
+        },
+        {
+          "id": 365117,
+          "text": "NEW TODO",
+          "state": false,
+          "category": "Home"
+        }
+      ]
+    },
+    {
+      "username": "Cuki",
+      "passHash": "6edbb5c948d25789eccdfb37b70ff7f728f49786",
+      "usernameLower": "cuki",
+      "authKey": "undefinedLcy$^v^zXyoxyXQ_BbAJIRYwi%KiGGlD^ry+-N@AIwpP%EhOAUK",
+      "id": "f2c8726a-773e-403c-ad76-37dad93c9a8c"
+    },
+    {
+      "username": "Cuki2",
+      "passHash": "dfacf7f490d8e38e7895caad02e3693236216f51",
+      "usernameLower": "cuki2",
+      "authKey": "undefinedTZvCUbyZH(!=m-+)$fcAjzD)NPiWfGt(r!MHSzrCPAb(nGfp%*!",
+      "id": "1987f231-b978-49de-a5eb-d3f57f1f6fa6"
+    },
+    {
+      "username": "Cuki3",
+      "passHash": "05e18f169bb85da8722deb800fa8e3898c809146",
+      "usernameLower": "cuki3",
+      "authKey": "undefined&a*=xajP_XX&NIPuGIJIgcTfFWlZ&#BdA*zD*@TUUvNc^TmOfw(",
+      "id": "22402c86-f18e-4689-9fc3-237205fad856"
+    },
+    {
+      "username": "rvqewrewq",
+      "passHash": "a20c9005091a717d0f1b929c8f3f7a8baca80867",
+      "usernameLower": "rvqewrewq",
+      "authKey": "undefinedH(pllfOmD*ZerUm_OeKpIZM$E_jl++WICE=YCxqn&ggDXMQ-UUB",
+      "id": "30916740-f24c-4cff-89d8-3c2799e770b2"
+    },
+    {
+      "username": "ivan",
+      "passHash": "290cb8886545808a9ce82137a7f550b5eda7ad72",
+      "usernameLower": "ivan",
+      "authKey": "undefinedD^I_YkwBsVuoCf%)EJBpe!At%j#$)KmmoCp&pPn&jnPyIy*BAnP",
+      "id": "f8bab7fd-4114-4fa9-ba3e-dc0f690dcd17"
+    },
+    {
+      "username": "teqwteqw",
+      "passHash": "a033199129277e24f7539d854fd727a876fe0ebb",
+      "usernameLower": "teqwteqw",
+      "authKey": "undefined&qju@syYE-aFjjSM-AkzvSBIbEZ!HMqLcWOIG)HdpRycB#_ms=%",
+      "id": "f955207f-e859-4e15-90bb-95caec6c3176"
+    },
+    {
+      "username": "fewqf",
+      "passHash": "5ef353fa352008f9defa3294c377eee37711ccad",
+      "usernameLower": "fewqf",
+      "authKey": "undefineda!BEn%*%Ur#=!(ceH-EQ&NGoEflZKEqIKhSCsR&ODovvjW-lHW_",
+      "id": "6037a614-9b20-4cfa-ac68-5ac2a7bf1d63"
+    },
+    {
+      "username": "cyka",
+      "passHash": "e531e10a1355f8099368fd4300b455f7a3e66f57",
+      "usernameLower": "cyka",
+      "authKey": "undefinednoc-XqApCPdZokOLDx(_JBxyKUrW-hTg#SOJDyQ!m(!zOzpomEt",
+      "id": "fb82271f-501d-401a-a40b-5b6563a98633"
+    },
+    {
+      "username": "goshko",
+      "passHash": "709ee8e36bd78f7a257b61f671da35e6101cd04d",
+      "usernameLower": "goshko",
+      "authKey": "undefinedL=hmJZcwy+WMq+QAeqdiVA-a=Mrl%LWaOpJFI@ojA$HdAGtNHlG",
+      "id": "76e60981-c5ae-4d55-9e94-0962759f78b0"
+    },
+    {
+      "username": "ivan123",
+      "passHash": "09e58f57bc9fc718197fdaa601c82f10954328f2",
+      "usernameLower": "ivan123",
+      "authKey": "undefinedPj-_VtVVmDvk#HfzrO+ohz&cpfF*CmQAnFB@yjXxa-Rv_c)Ud$E",
+      "id": "862ba1d9-1b11-4015-ad9c-18f5ccee28a9"
+    },
+    {
+      "username": "goshootpochivka123",
+      "passHash": "5ab983a90284336ff096b3c5e11550cbc9c2cae1",
+      "usernameLower": "goshootpochivka123",
+      "authKey": "undefined^cNbymmWq^&()&b*gROhOLBn*LgxQq)HBfPHOAu@exrsxri=#^E",
+      "id": "57a6d11b-a31b-4a29-890f-60216056372d"
+    },
+    {
+      "username": "goshko123",
+      "passHash": "7b7de6047ed7795c35cc1be5e628da8716326904",
+      "usernameLower": "goshko123",
+      "authKey": "undefinedrqpqkP!BSrMsxeCYBn%Gte=&=Fql@OK^A@gl#UqVUOAoHggbEyl",
+      "id": "41310f97-6508-419e-890a-1451f7eace4a"
+    },
+    {
+      "username": "ivans1991",
+      "passHash": "9eaaf58d97ffa9fdfb8310eb5ce24c781068f025",
+      "usernameLower": "ivans1991",
+      "authKey": "undefinedkAmB-khZkxit*+B-jwv&LhsXWuVyv_bSKRWvbzKazKXgQgTmPfI",
+      "id": "40076612-8fc0-4cb3-a5aa-deae7407b4c5",
+      "todos": [
+        {
+          "id": 839525,
+          "text": "new todo",
+          "state": false,
+          "category": "todo"
+        },
+        {
+          "id": 990577,
+          "text": "dsadas",
+          "state": false,
+          "category": "dsadsa"
+        }
+      ]
+    }
+  ]
+}

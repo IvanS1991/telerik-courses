@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- LIBS -->
+    <script type="text/javascript" src="libs/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="libs/sammy/lib/sammy.js"></script>
+    <script type="text/javascript" src="libs/handlebars/dist/handlebars.js"></script>
+    <script type="text/javascript" src="libs/crypto-js/crypto-js.js"></script>
+
+    <!-- HELPERS -->
+    <script type="text/javascript" src="./js/helpers/requester.js"></script>
+    <script type="text/javascript" src="./js/helpers/data.js"></script>
+    <script type="text/javascript" src="./js/helpers/templates.js"></script>
+
+    <!-- CONTROLLERS -->
+    <script type="text/javascript" src="./js/controllers/home-controller.js"></script>
+    <script type="text/javascript" src="./js/controllers/user-controller.js"></script>
+    <script type="text/javascript" src="./js/controllers/todo-controller.js"></script>
+    <script type="text/javascript" src="./js/controllers/event-controller.js"></script>
+
+    <!-- APP -->
+    <script type="text/javascript" src="./js/app.js"></script>
+
+  </head>
+
+  <body>
+    <header>
+      <div id="login-control"></div>
+      <nav>
+        <ul>
+          <li><a href="#/home">HOME</a></li>
+          <li><a href="#/todos">TODOS</a></li>
+          <li><a href="#/events">EVENTS</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div id="content"></div>
+
+  </body>
+
+</html>
